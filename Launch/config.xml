@@ -1,0 +1,47 @@
+<configs>
+  <remote_url>http://127.0.0.1:58679/hub</remote_url>
+  <session_id>96be7498-e5e9-439a-abf7-f13ac94f9eea</session_id>
+
+  <base_url>http://demov6.k3cloud.kingdee.com</base_url>
+  <add_url>/k3cloud/html5/index.aspx</add_url>
+
+  <dataCenter>AutoTest</dataCenter>
+  <libPath>R:\K3CloudTest\DataPool</libPath>
+  <browser>chrome</browser>
+  <chrome>
+    <dir>chrome</dir>
+    <caption>K/3 Cloud - Google Chrome</caption>
+  </chrome>
+  <ie>
+    <dir>iexplore</dir>
+    <caption>K/3 Cloud - Windows Internet Explorer</caption>
+  </ie>
+  <firefox>
+    <dir>firefox</dir>
+    <caption>K/3 Cloud - Mozilla Firefox</caption>
+  </firefox>
+  <url>192.168.66.58</url>
+  <webapps>
+    <cloud>/K3Cloud/Silverlight/IndexSL.aspx</cloud>
+    <manager>:8000</manager>
+  </webapps>
+  <profiles>
+    <chrome>R:/K3CloudTest/chrome_profile</chrome>
+    <firefox>R:/K3CloudTest/firefox_profile</firefox>
+  </profiles>
+  <ATLog enabled="true" />
+  <ATView enabled="true" />
+  <params>
+    <param name="ItemID">5522</param>
+    <param name="product">K3Cloud</param>
+    <param name="SolutionLogID">1004</param>
+    <param name="CaseID">7760</param>
+    <param name="EnvCaseID">1</param>
+    <param name="ServerTaskID">11563</param>
+    <param name="ManualRun">0</param>o
+  </params>
+  <pid>4680</pid>
+  <mypath>\\192.168.60.9\p\K3CloudV6\DataPool\</mypath>
+  <driverPort>12346</driverPort>
+  <lastSessionId>878ca020cf75b40d925a779a7304817f</lastSessionId>
+</configs>

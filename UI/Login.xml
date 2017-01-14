@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configs>
+
+    <base_url>"http://demov6.k3cloud.kingdee.com"</base_url>
+    <add_url>"/k3cloud/html5/index.aspx"</add_url>
+
+    <key>haha</key>
+
+</configs>
